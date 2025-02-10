@@ -12,6 +12,7 @@ Record your names here in this format-
 1. Team captain name, UNI
 2. Member name, UNI
 3. Member name, UNI
+4. Member name, UNI
 
 and so on.   
 
