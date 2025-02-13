@@ -9,10 +9,10 @@ This course provides a unique opportunity for students in the MS in Data Science
 Select a team captain (with or without help from mentor/instructor/supervisor)
 
 Record your names here in this format-
-1. Team captain name, UNI
-2. Member name, UNI
-3. Member name, UNI
-4. Member name, UNI
+1. Yue Yang, yy3532
+2. Xinyue Zhang, xz3367
+3. Jie Hu, jh4741
+4. Han Qiang, hq2218
 
 and so on.   
 
